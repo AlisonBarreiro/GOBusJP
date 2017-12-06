@@ -1,1 +1,1 @@
-# GUBusJP
+# GOBusJP
