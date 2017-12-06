@@ -13,5 +13,6 @@
 > ![alt text](https://image.ibb.co/e5BSfG/bus_icon_1004.png) ( Parada 1004) <br>
 
 ![alt text](https://image.ibb.co/cAapSw/Screenshot_20171206_133808.png)
+![alt text](https://preview.ibb.co/kEghEb/Screenshot_20171206_134847.png)
 ![alt text](https://image.ibb.co/hOhsfG/Screenshot_20171206_133836.png)
 ![alt text](https://image.ibb.co/feMw7w/Screenshot_20171206_133843.png)
