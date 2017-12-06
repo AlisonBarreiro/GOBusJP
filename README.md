@@ -8,7 +8,7 @@
 
 > ![alt text](https://image.ibb.co/fh92Eb/bus_icon_1001.png) ( Parada 1001) <br>
 > ![alt text](https://image.ibb.co/iAijSw/bus_icon_1002.png) ( Parada 1002) <br>
-> ![alt text](https://image.ibb.co/cJwFZb/bus_icon_all.png) ( Parada 1001 e 1002) <br>
+> ![alt text](https://image.ibb.co/cJwFZb/bus_icon_all.png) ( Paradas 1001 e 1002) <br>
 > ![alt text](https://image.ibb.co/mGRSfG/bus_icon_1003.png) ( Parada 1003) <br>
 > ![alt text](https://image.ibb.co/e5BSfG/bus_icon_1004.png) ( Parada 1004) <br>
 
