@@ -1,0 +1,499 @@
+[
+    {
+        "Linhas": ["1001"],
+        "Parada": 1,
+        "ProximoPonto": ["2"],
+        "Latitude": -7.1603, 
+        "Longitude":  -34.81923
+    },
+    {
+        "Linhas": ["1001"],
+        "Parada": 2,
+        "ProximoPonto": ["3"],
+        "Latitude": -7.16039, 
+        "Longitude":  -34.82163
+    },
+    {
+        "Linhas": ["1001"],
+        "Parada": 3,
+        "ProximoPonto": ["4"],
+        "Latitude": -7.16365,  
+        "Longitude":  -34.82563
+    },
+    {
+        "Linhas": ["1001"],
+        "Parada": 4,
+        "ProximoPonto": ["5"],
+        "Latitude": -7.16342,  
+        "Longitude":  -34.82841
+    },
+    {
+        "Linhas": ["1001"],
+        "Parada": 5,
+        "ProximoPonto": ["6"],
+        "Latitude": -7.16303, 
+        "Longitude":  -34.83138
+    },
+    {
+        "Linhas": ["1001"],
+        "Parada": 6,
+        "ProximoPonto": ["7"],
+        "Latitude": -7.16222,  
+        "Longitude":  -34.83505
+    },
+    {
+        "Linhas": ["1001"],
+        "Parada": 7,
+        "ProximoPonto": ["8"],
+        "Latitude": -7.16018, 
+        "Longitude":  -34.83828
+    },
+    {
+        "Linhas": ["1001"],
+        "Parada": 8,
+        "ProximoPonto": ["9"],
+        "Latitude": -7.15711,   
+        "Longitude":  -34.83839
+        
+    },
+    {
+        "Linhas": ["1001"],
+        "Parada": 9,
+        "ProximoPonto": ["10"],
+        "Latitude": -7.15284,  
+        "Longitude":  -34.83854
+    },
+    {
+        "Linhas": ["1001"],
+        "Parada": 10,
+        "ProximoPonto": ["11"],
+        "Latitude": -7.15005,  
+        "Longitude":  -34.84067
+    },
+    {
+        "Linhas": ["1001"],
+        "Parada": 11,
+        "ProximoPonto": ["12"],
+        "Latitude": -7.14797,  
+        "Longitude":  -34.84363
+    },
+    {
+        "Linhas": ["1001"],
+        "Parada": 12,
+        "ProximoPonto": ["13"],
+        "Latitude": -7.14663, 
+        "Longitude":  -34.84781
+    },
+    {
+        "Linhas": ["1001"],
+        "Parada": 13,
+        "ProximoPonto": ["14"],
+        "Latitude": -7.15711, 
+        "Longitude":  -34.83838
+    },
+    {
+        "Linhas": ["1001", "1002"],
+        "Parada": 14,
+        "ProximoPonto": ["15"],
+        "Latitude": -7.14152, 
+        "Longitude":  -34.85147
+    },
+    {
+        "Linhas": ["1001", "1002"],
+        "Parada": 15,
+        "ProximoPonto": ["16"],
+        "Latitude": -7.13739, 
+        "Longitude":  -34.85034
+    },
+    {
+        "Linhas": ["1001", "1002"],
+        "Parada": 16,
+        "ProximoPonto": ["17"],
+        "Latitude": -7.13354,  
+        "Longitude":  -34.84758
+    },
+    {
+        "Linhas": ["1001", "1002"],
+        "Parada": 17,
+        "ProximoPonto": ["18"],
+        "Latitude": -7.13135,   
+        "Longitude":  -34.84431
+    },
+    {
+        "Linhas": ["1001", "1002"],
+        "Parada": 18,
+        "ProximoPonto": ["19"],
+        "Latitude": -7.13068,  
+        "Longitude":  -34.84047
+    },
+    {
+        "Linhas": ["1001", "1002"],
+        "Parada": 19,
+        "ProximoPonto": ["20"],
+        "Latitude": -7.12995,   
+        "Longitude":  -34.83857
+    },
+    {
+        "Linhas": ["1001", "1002"],
+        "Parada": 20,
+        "ProximoPonto": ["21"],
+        "Latitude":-7.1225,  
+        "Longitude":  -34.83641
+    },
+    {
+        "Linhas": ["1001", "1002"],
+        "Parada": 21,
+        "ProximoPonto": ["22"],
+        "Latitude": -7.11963,  
+        "Longitude":  -34.83529
+    },
+    {
+        "Linhas": ["1001", "1002"],
+        "Parada": 22,
+        "ProximoPonto": ["23"],
+        "Latitude": -7.11961,  
+        "Longitude":  -34.83244
+    },
+    {
+        "Linhas": ["1001", "1002"],
+        "Parada": 23,
+        "ProximoPonto": ["24"],
+        "Latitude": -7.11960,  
+        "Longitude":  -34.82950
+    },
+    {
+        "Linhas": ["1001", "1002"],
+        "Parada": 24,
+        "ProximoPonto": ["25"],
+        "Latitude": -7.11959,  
+        "Longitude":  -34.82949 
+    },
+    {
+        "Linhas": ["1001", "1002"],
+        "Parada": 25,
+        "ProximoPonto": ["26","107"],
+        "Latitude": -7.11955,  
+        "Longitude":  -34.82683
+    },
+    {
+        "Linhas": ["1001"],
+        "Parada": 26,
+        "ProximoPonto": ["27"],
+        "Latitude": -7.11951,  
+        "Longitude":   -34.82435
+    },
+    {
+        "Linhas": ["1001"],
+        "Parada": 27,
+        "ProximoPonto": ["28"],
+        "Latitude": -7.12183,   
+        "Longitude":  -34.82407
+    },
+    {
+        "Linhas": ["1001"],
+        "Parada": 28,
+        "ProximoPonto": ["29"],
+        "Latitude": -7.12717,   
+        "Longitude":  -34.82354
+    },
+    {
+        "Linhas": ["1001"],
+        "Parada": 29,
+        "ProximoPonto": ["30"],
+        "Latitude": -7.13214,   
+        "Longitude":  -34.82176
+    },
+    {
+        "Linhas": ["1001"],
+        "Parada": 30,
+        "ProximoPonto": ["31"],
+        "Latitude": -7.13637,   
+        "Longitude":  -34.81945
+    },
+    {
+        "Linhas": ["1001"],
+        "Parada": 31,
+        "ProximoPonto": ["32"],
+        "Latitude": -7.14116,  
+        "Longitude":  -34.81562
+    },
+    {
+        "Linhas": ["1001"],
+        "Parada": 32,
+        "ProximoPonto": ["33"],
+        "Latitude": -7.14584,  
+        "Longitude": -34.809485
+    },
+    {
+        "Linhas": ["1001"],
+        "Parada": 33,
+        "ProximoPonto": [""],
+        "Latitude": -7.14584,  
+        "Longitude": -34.809485
+    },
+    {
+        "Linhas": ["1002"],
+        "Parada": 101,
+        "ProximoPonto": ["102"],
+        "Latitude": -7.15843,  
+        "Longitude": -34.85834
+    },
+    {
+        "Linhas": ["1002"],
+        "Parada": 102,
+        "ProximoPonto": ["103"],
+        "Latitude": -7.15624,  
+        "Longitude": -34.853
+    },
+    {
+        "Linhas": ["1002"],
+        "Parada": 103,
+        "ProximoPonto": ["104"],
+        "Latitude": -7.15467,   
+        "Longitude": -34.85226
+    },
+    {
+        "Linhas": ["1002"],
+        "Parada": 104,
+        "ProximoPonto": ["105"],
+        "Latitude": -7.15275,  
+        "Longitude": -34.85166
+    },
+    {
+        "Linhas": ["1002"],
+        "Parada": 105,
+        "ProximoPonto": ["106"],
+        "Latitude": -7.15061,   
+        "Longitude": -34.85102
+    },
+    {
+        "Linhas": ["1002"],
+        "Parada": 106,
+        "ProximoPonto": ["14"],
+        "Latitude": -7.14912,   
+        "Longitude": -34.85055
+    },
+    {
+        "Linhas": ["1002"],
+        "Parada": 107,
+        "ProximoPonto": ["108"],
+        "Latitude": -7.11639,    
+        "Longitude": -34.82502
+    },
+    {
+        "Linhas": ["1002"],
+        "Parada": 108,
+        "ProximoPonto": ["109"],
+        "Latitude": -7.11377,    
+        "Longitude": -34.82452
+    },
+    {
+        "Linhas": ["1002"],
+        "Parada": 109,
+        "ProximoPonto": ["110"],
+        "Latitude": -7.11151,     
+        "Longitude": -34.82512
+    },
+    {
+        "Linhas": ["1002"],
+        "Parada": 110,
+        "ProximoPonto": ["111"],
+        "Latitude": -7.10863,      
+        "Longitude": -34.8252
+    },
+    {
+        "Linhas": ["1002"],
+        "Parada": 111,
+        "ProximoPonto": ["112"],
+        "Latitude": -7.10619,      
+        "Longitude": -34.82794
+    },
+    {
+        "Linhas": ["1002"],
+        "Parada": 112,
+        "ProximoPonto": ["113"],
+        "Latitude": -7.102,      
+        "Longitude": -34.83119
+    },
+    {
+        "Linhas": ["1002"],
+        "Parada": 113,
+        "ProximoPonto": ["114"],
+        "Latitude": -7.09867,      
+        "Longitude": -34.83275
+    },
+    {
+        "Linhas": ["1002"],
+        "Parada": 114,
+        "ProximoPonto": [""],
+        "Latitude": -7.09627,     
+        "Longitude": -34.83451
+    },
+    {
+        "Linhas": ["1003"],
+        "Parada": 201,
+        "ProximoPonto": ["202"],
+        "Latitude": -7.11825,     
+        "Longitude": -34.87999
+    },
+    {
+        "Linhas": ["1003"],
+        "Parada": 202,
+        "ProximoPonto": ["203"],
+        "Latitude": -7.11589,    
+        "Longitude":  -34.88754
+    },
+    {
+        "Linhas": ["1003"],
+        "Parada": 203,
+        "ProximoPonto": ["204"],
+        "Latitude": -7.11446,     
+        "Longitude":  -34.8902
+    },
+    {
+        "Linhas": ["1003"],
+        "Parada": 204,
+        "ProximoPonto": ["205"],
+        "Latitude": -7.1178,    
+        "Longitude":  -34.88985
+    },
+    {
+        "Linhas": ["1003"],
+        "Parada": 205,
+        "ProximoPonto": ["206"],
+        "Latitude": -7.11944,    
+        "Longitude":  -34.88516
+    },
+    {
+        "Linhas": ["1003"],
+        "Parada": 206,
+        "ProximoPonto": ["207"],
+        "Latitude": -7.12161,     
+        "Longitude":  -34.87901
+    },
+    {
+        "Linhas": ["1003"],
+        "Parada": 207,
+        "ProximoPonto": ["208"],
+        "Latitude": -7.12044,      
+        "Longitude":  -34.87406
+    },
+    {
+        "Linhas": ["1003"],
+        "Parada": 208,
+        "ProximoPonto": ["209"],
+        "Latitude": -7.12021,     
+        "Longitude":  -34.87169
+    },
+    {
+        "Linhas": ["1003"],
+        "Parada": 210,
+        "ProximoPonto": ["211"],
+        "Latitude": -7.11984,     
+        "Longitude":  -34.8684
+    },
+    {
+        "Linhas": ["1003"],
+        "Parada": 211,
+        "ProximoPonto": ["212"],
+        "Latitude": -7.11987,      
+        "Longitude":  -34.86345
+    },
+    {
+        "Linhas": ["1003"],
+        "Parada": 212,
+        "ProximoPonto": ["213"],
+        "Latitude": -7.11983,     
+        "Longitude":  -34.85833
+    },
+    {
+        "Linhas": ["1003"],
+        "Parada": 214,
+        "ProximoPonto": ["215"],
+        "Latitude": -7.1198,     
+        "Longitude":  -34.85252
+    },
+    {
+        "Linhas": ["1003"],
+        "Parada": 217,
+        "ProximoPonto": [""],
+        "Latitude": -7.11972,       
+        "Longitude":  -34.8394
+    },
+    {
+        "Linhas": ["1004"],
+        "Parada": 301,
+        "ProximoPonto": ["302"],
+        "Latitude": -7.09441,        
+        "Longitude": -34.83609
+    },
+    {
+        "Linhas": ["1004"],
+        "Parada": 302,
+        "ProximoPonto": ["303"],
+        "Latitude": -7.09564,         
+        "Longitude": -34.83911
+    },
+    {
+        "Linhas": ["1004"],
+        "Parada": 303,
+        "ProximoPonto": ["304"],
+        "Latitude": -7.09749,         
+        "Longitude": -34.84141
+    },
+    {
+        "Linhas": ["1004"],
+        "Parada": 304,
+        "ProximoPonto": ["305"],
+        "Latitude": -7.09772,        
+        "Longitude": -34.84488
+    },
+    {
+        "Linhas": ["1004"],
+        "Parada": 305,
+        "ProximoPonto": ["306"],
+        "Latitude": -7.09777,         
+        "Longitude": -34.85409
+    },
+    {
+        "Linhas": ["1004"],
+        "Parada": 307,
+        "ProximoPonto": ["308"],
+        "Latitude": -7.10097,         
+        "Longitude": -34.86321
+    },
+    {
+        "Linhas": ["1004"],
+        "Parada": 308,
+        "ProximoPonto": ["309"],
+        "Latitude": -7.10624,        
+        "Longitude": -34.86893 
+    },
+    {
+        "Linhas": ["1004"],
+        "Parada": 309,
+        "ProximoPonto": ["310"],
+        "Latitude": -7.11205,       
+        "Longitude": -34.87138 
+    },
+    {
+        "Linhas": ["1004"],
+        "Parada": 310,
+        "ProximoPonto": ["311"],
+        "Latitude": -7.11548,         
+        "Longitude": -34.87504
+    },
+    {
+        "Linhas": ["1004"],
+        "Parada": 311,
+        "ProximoPonto": ["312"],
+        "Latitude": -7.1151,      
+        "Longitude": -34.87959
+    }
+    
+    
+    
+    
+    
+    
+]
